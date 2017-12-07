@@ -14,12 +14,12 @@ class Uploadmodel extends  CI_Model
     //上传图片的时候，将图片的信息插入数据库
     public function insertImage($data)
     {
-        return $this->db->insert('image_source',$data);
+        return $this->db->insert($this->imageSource_table,$data);
     }
 
     //获取数据库所有的图片信息
     public  function  getImage()
     {
-        return $this->db->get('image_source')->result_array();
+        return $this->db->get($this->imageSource_table)->result_array();
     }
 }

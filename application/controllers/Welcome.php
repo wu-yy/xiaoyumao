@@ -1,31 +1,19 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Welcome extends CI_Controller {
+include_once(dirname(dirname(dirname(__FILE__))).'/360safe/360webscan.php');
 
-	/**
-	 * Index Page for this controller.
-	 *
-	 * Maps to the following URL
-	 * 		http://example.com/index.php/welcome
-	 *	- or -
-	 * 		http://example.com/index.php/welcome/index
-	 *	- or -
-	 * Since this controller is set as the default controller in
-	 * config/routes.php, it's displayed at http://example.com/
-	 *
-	 * So any other public methods not prefixed with an underscore will
-	 * map to /index.php/welcome/<method_name>
-	 * @see https://codeigniter.com/user_guide/general/urls.html
-	 */
-
+class Welcome extends Application {
 	//初始化
 	public  function __construct()
     {
         parent::__construct();
-        $this->load->helper('url');
         $this->load->library('session');
-        $this->load->model('uploadmodel');
+         //包含自己所建的库 library
+        /*
+        $path = dirname(dirname(__FILE__));
+        include_once($path . "/libraries/wx_pay/lib/WxPay.Api.php");
+        */
     }
 
     public function index()

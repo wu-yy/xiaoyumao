@@ -5,13 +5,12 @@
  * Date: 2017/12/6
  * Time: 17:19
  */
- class User extends CI_Controller
+ class User extends Application
  {
 
      public function __construct()
      {
          parent::__construct();
-         $this->load->model('usermodel');
          $this->load->helper('url_helper');
          $this->load->library('session');
 

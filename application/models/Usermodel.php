@@ -20,7 +20,7 @@ class Usermodel extends  CI_Model
     public function  get_userInfo()
     {
 
-        $query=$this->db->get('users');
+        $query=$this->db->get($this->user_table);
         return $query->result_array();
     }
 
@@ -29,7 +29,7 @@ class Usermodel extends  CI_Model
     {
 
         $query=$this->db->get('users');
-        $query=$this->db->get_where('users',array('username'=>$username));
+        $query=$this->db->get_where($this->user_table,array('username'=>$username));
         return $query->result_array();
     }
 
@@ -39,7 +39,7 @@ class Usermodel extends  CI_Model
         //$this->load->helper('url');
         $username=$this->input->post('username');
         $password=$this->input->post('password');
-        $query=$this->db->get_where('users',array('username'=>$username,'password'=>$password));
+        $query=$this->db->get_where($this->user_table,array('username'=>$username,'password'=>$password));
         if(empty($query->result_array())) //判断是否登录成功
         {
             return false;
@@ -52,25 +52,23 @@ class Usermodel extends  CI_Model
 
     public function set_userInfoForm()
     {
-        //$this->load->helper('url');
         $data=array(
             'nickname'=>$this->input->post('title'),
             'username'=>$this->input->post('text')
 
         );
         print_r('执行数据库插入');
-        return $this->db->insert('users',$data);
+        return $this->db->insert($this->user_table,$data);
 
     }
 
     public function register()
     {
-        //$this->load->helper('url');
         $data=array(
           'username'=>$this->input->post('username'),
             'email'=>$this->input->post('email'),
             'password'=>$this->input->post('password')
         );
-        return $this->db->insert('users',$data);
+        return $this->db->insert($this->user_table,$data);
     }
 }

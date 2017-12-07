@@ -5,13 +5,12 @@
  * Date: 2017/12/7
  * Time: 14:44
  */
- class Upload extends CI_Controller
+ class Upload extends Application
  {
      public function __construct()
      {
          parent::__construct();
          $this->load->helper(array('form','url'));
-         $this->load->model('uploadmodel');
      }
 
      public  function  index()

@@ -80,7 +80,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </h1>
 
 	<div id="body">
-        <p> 欢迎来到资源分享网站！<a href="<?php echo base_url('index.php/user/login');?>">登录</a> <a herf="<?php echo base_url('index.php/user/register');?>">注册</a></p>
+        <p> 欢迎来到资源分享网站！<a href="<?php echo base_url('index.php/user/login');?>">登录</a> <a href="<?php echo base_url('index.php/user/register');?>">注册</a></p>
     </div>
     <div>
         <p><a href="<?php echo base_url('index.php/upload')?>">上传图片文件</a></p>

@@ -78,7 +78,7 @@ $config['url_suffix'] = '';
 | than english.
 |
 */
-$config['language']	= 'english';
+$config['language']	= 'chinese';
 
 /*
 |--------------------------------------------------------------------------
@@ -225,7 +225,7 @@ $config['allow_get_array'] = TRUE;
 | your log files will fill up very fast.
 |
 */
-$config['log_threshold'] = 0;
+$config['log_threshold'] = 1;
 
 /*
 |--------------------------------------------------------------------------
@@ -326,7 +326,8 @@ $config['cache_query_string'] = FALSE;
 | https://codeigniter.com/user_guide/libraries/encryption.html
 |
 */
-$config['encryption_key'] = '';
+//需要学习
+$config['encryption_key'] = 'baseci';
 
 /*
 |--------------------------------------------------------------------------
@@ -379,12 +380,15 @@ $config['encryption_key'] = '';
 | except for 'cookie_prefix' and 'cookie_httponly', which are ignored here.
 |
 */
-$config['sess_driver'] = 'files';
-$config['sess_cookie_name'] = 'ci_session';
-$config['sess_expiration'] = 7200;
-$config['sess_save_path'] = NULL;
+//$config['sess_driver'] = 'files';
+$config['sess_driver'] = 'database';
+//$config['sess_cookie_name'] = 'ci_session';
+$config['sess_cookie_name'] = 'baseci_session';
+$config['sess_expiration'] = 24*60*60;
+//$config['sess_save_path'] = NULL;
+$config['sess_save_path'] = 'ci_sessions';
 $config['sess_match_ip'] = FALSE;
-$config['sess_time_to_update'] = 300;
+$config['sess_time_to_update'] = 24*60*60;
 $config['sess_regenerate_destroy'] = FALSE;
 
 /*
@@ -523,3 +527,42 @@ $config['rewrite_short_tags'] = FALSE;
 | Array:		array('10.0.1.200', '192.168.5.0/24')
 */
 $config['proxy_ips'] = '';
+
+/*
+| 作者：吴永宇
+| 时间：2017年12月7日10:41
+| 目的：定义全站默认的每页显示多少
+*/
+$config['per_page'] = '10';
+
+//职位类别
+$config['job_type'] = array(
+    1 => '实习生',
+    2 => '销售类',
+    3 => '职能类',
+    4 => '运营类',
+    5 => '研发类',
+    6 => '其他',
+);
+
+
+$config['all_tags'] = array(
+    1 => '旅游',
+    2 => '户外',
+    3 => '美食',
+    4 => '电商',
+    5 => '娱乐',
+    6 => '健身',
+    7 => '美业',
+    8 => '公益',
+    9 => '游戏',
+
+);
+
+$config['site_name'] = "小羽毛资源分享平台";
+
+$config['site_name_more'] = "大学资源搜索平台";
+
+$config['keywords'] = "小羽毛资源分享平台-一个高校资源分享的平台。";
+
+$config['description'] = "小羽毛-有趣的资源分享-一个高校资源分享的平台。";
