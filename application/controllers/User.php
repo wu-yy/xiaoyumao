@@ -30,7 +30,7 @@
          //这里是设置选项是必须填写的
          $this->form_validation->set_rules('username','用户名','required|min_length[2]|max_length[12]', array('required' => '你必须提供一个 %s.'));
          $this->form_validation->set_rules('password','密码','required',array('required' => '你必须输入 %s.'));
-         $this->form_validation->set_rules('lsub','登录按钮','required');
+         //$this->form_validation->set_rules('lsub','登录按钮','required');
          if($this->form_validation->run()==TRUE)
          {
             $isLogin=$this->usermodel->is_register();
@@ -54,9 +54,9 @@
          }
          else
          {
-             $this->load->view('templates/header',$data);
+             //$this->load->view('templates/header',$data);
              $this->load->view('user/login',$data);
-             $this->load->view('templates/footer',$data);
+             //$this->load->view('templates/footer',$data);
 
          }
 
@@ -81,7 +81,7 @@
              Array_push($users['email'],$item['username']);
 
          }
-         var_dump($users['username'],$users['email']);
+         //var_dump($users['username'],$users['email']);
 
          //这里是设置选项是必须填写的
          $this->form_validation->set_rules('username','用户名','required|min_length[2]|max_length[12]|is_unique[users.username]', array('required' => '你必须提供一个 %s.',
@@ -92,9 +92,9 @@
          $this->form_validation->set_rules('repassword','再次输入密码','required|matches[password]',array('required' => '你必须提供一个 %s.','matches'=>'两次输入的密码不同！'));
          if($this->form_validation->run()===false) //只有form 匹配了所有的规则，才会返回True
          {
-             $this->load->view('templates/header',$data);
+             //$this->load->view('templates/header',$data);
              $this->load->view('user/register',$data);
-             $this->load->view('templates/footer',$data);
+            // $this->load->view('templates/footer',$data);
          }else{
 
              $this->usermodel->register();

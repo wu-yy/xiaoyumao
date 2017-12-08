@@ -2,767 +2,243 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fefcef09-7663-4632-af89-1e57c5b13f7b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/hu/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_10.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_11.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_12.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_13.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_14.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_15.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_16.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_17.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_18.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_19.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_20.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_21.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_22.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_23.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_24.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_25.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_26.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_27.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_28.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_29.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_30.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_31.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_32.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_33.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_34.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_34.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_35.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_35.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_36.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_37.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_38.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_38.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_39.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_39.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_40.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_8.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_9.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/frame_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_101_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_105_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_109_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_113_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_117_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_121_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_125_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_129_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_133_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_137_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_141_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_145_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_149_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_153_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_157_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_161_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_165_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_169_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_173_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_177_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_21_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_25_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_29_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_33_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_37_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_41_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_45_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_49_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_53_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_57_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_61_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_65_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_69_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_73_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_77_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_81_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_85_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_89_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_93_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_0/mask_97_0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_101_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_105_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_109_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_113_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_117_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_121_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_125_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_129_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_133_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_137_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_141_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_145_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_149_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_153_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_157_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_161_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_165_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_169_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_173_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_177_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_21_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_25_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_29_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_33_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_37_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_41_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_45_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_49_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_53_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_57_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_61_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_65_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_69_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_73_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_77_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_81_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_85_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_89_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_93_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_1/mask_97_1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_101_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_105_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_109_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_113_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_117_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_121_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_125_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_129_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_133_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_137_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_141_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_145_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_149_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_153_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_157_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_161_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_165_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_169_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_173_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_177_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_21_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_25_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_29_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_33_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_37_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_41_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_45_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_49_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_53_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_57_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_61_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_65_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_69_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_73_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_77_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_81_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_85_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_89_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_93_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_2/mask_97_2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_101_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_105_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_109_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_113_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_117_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_121_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_125_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_129_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_133_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_137_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_141_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_145_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_149_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_153_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_157_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_161_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_165_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_169_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_173_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_177_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_21_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_25_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_29_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_33_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_37_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_41_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_45_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_49_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_53_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_57_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_61_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_65_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_69_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_73_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_77_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_81_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_85_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_89_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_93_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_3/mask_97_3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_101_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_105_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_109_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_113_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_117_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_121_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_125_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_129_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_133_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_137_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_141_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_145_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_149_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_153_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_157_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_161_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_165_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_169_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_173_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_177_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_21_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_25_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_29_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_33_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_37_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_41_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_45_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_49_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_53_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_57_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_61_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_65_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_69_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_73_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_77_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_81_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_85_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_89_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_93_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_4/mask_97_4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_101_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_105_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_109_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_113_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_117_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_121_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_125_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_129_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_133_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_137_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_141_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_145_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_149_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_153_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_157_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_161_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_165_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_169_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_173_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_177_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_21_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_25_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_29_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_33_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_37_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_41_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_45_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_49_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_53_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_57_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_61_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_65_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_69_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_73_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_77_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_81_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_85_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_89_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_93_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_5/mask_97_5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_101_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_105_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_109_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_113_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_117_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_121_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_125_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_129_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_133_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_137_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_141_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_145_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_149_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_153_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_157_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_161_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_165_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_169_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_173_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_177_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_21_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_25_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_29_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_33_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_37_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_41_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_45_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_49_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_53_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_57_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_61_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_65_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_69_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_73_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_77_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_81_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_85_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_89_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_93_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_6/mask_97_6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_101_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_105_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_109_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_113_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_117_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_121_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_125_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_129_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_133_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_137_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_141_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_145_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_149_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_153_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_157_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_161_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_165_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_169_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_173_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_177_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_21_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_25_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_29_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_33_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_37_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_41_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_45_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_49_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_53_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_57_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_61_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_65_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_69_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_73_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_77_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_81_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_85_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_89_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_93_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/cache/mask_7/mask_97_7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/cert/apiclient_cert.p12" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/360safe/360scan.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/360safe/360webscan.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/360safe/scan_conf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/360safe/webscan_cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MP_verify_pDK4L6Tv5MKrNXYy.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/Jsfunc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/core/MY_Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/errors/error-404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/helpers/baseci_helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/chinese/calendar_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/chinese/date_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/chinese/db_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/chinese/email_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/chinese/error_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/chinese/form_validation_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/chinese/ftp_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/chinese/imglib_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/chinese/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/chinese/migration_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/chinese/number_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/chinese/pagination_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/chinese/profiler_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/chinese/unit_test_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/language/chinese/upload_lang.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Alidayu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Baseci.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Autoloader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CachedObjectStorage/APC.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CachedObjectStorage/CacheBase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CachedObjectStorage/DiscISAM.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CachedObjectStorage/ICache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CachedObjectStorage/Igbinary.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CachedObjectStorage/Memcache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CachedObjectStorage/Memory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CachedObjectStorage/MemoryGZip.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CachedObjectStorage/MemorySerialized.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CachedObjectStorage/PHPTemp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CachedObjectStorage/SQLite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CachedObjectStorage/SQLite3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CachedObjectStorage/Wincache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CachedObjectStorageFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CalcEngine/CyclicReferenceStack.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/CalcEngine/Logger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/Database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/DateTime.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/Engineering.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/ExceptionHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/Financial.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/FormulaParser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/FormulaToken.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/Function.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/Functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/Logical.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/LookupRef.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/MathTrig.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/Statistical.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/TextData.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/Token/Stack.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Calculation/functionlist.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Cell.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Cell/AdvancedValueBinder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Cell/DataType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Cell/DataValidation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Cell/DefaultValueBinder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Cell/Hyperlink.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Cell/IValueBinder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Chart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Chart/DataSeries.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Chart/DataSeriesValues.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Chart/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Chart/Layout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Chart/Legend.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Chart/PlotArea.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Chart/Renderer/jpgraph.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Chart/Title.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Comment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/DocumentProperties.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/DocumentSecurity.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/HashTable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/IComparable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/IOFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/NamedRange.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/Abstract.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/CSV.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/DefaultReadFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/Excel2003XML.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/Excel2007.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/Excel2007/Chart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/Excel2007/Theme.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/Excel5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/Excel5/Escher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/Excel5/MD5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/Excel5/RC4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/Gnumeric.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/HTML.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/IReadFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/IReader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/OOCalc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Reader/SYLK.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/ReferenceHelper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/RichText.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/RichText/ITextElement.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/RichText/Run.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/RichText/TextElement.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/CodePage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/Date.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/Drawing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/Escher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/Escher/DgContainer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/Escher/DgContainer/SpgrContainer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/SpContainer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/Escher/DggContainer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/Escher/DggContainer/BstoreContainer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/Blip.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/Excel5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/Font.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/JAMA/CHANGELOG.TXT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/JAMA/CholeskyDecomposition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/JAMA/LUDecomposition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/JAMA/Matrix.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/JAMA/QRDecomposition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/JAMA/SingularValueDecomposition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/JAMA/utils/Error.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/JAMA/utils/Maths.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/OLE.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/OLE/ChainedBlockStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/OLE/PPS.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/OLE/PPS/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/OLE/PPS/Root.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/OLERead.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/PCLZip/gnu-lgpl.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/PCLZip/pclzip.lib.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/PCLZip/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/PasswordHasher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/String.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/TimeZone.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/XMLWriter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/ZipArchive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/ZipStreamWrapper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/trend/bestFitClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/trend/exponentialBestFitClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/trend/linearBestFitClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/trend/logarithmicBestFitClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/trend/polynomialBestFitClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/trend/powerBestFitClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Shared/trend/trendClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Style.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Style/Alignment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Style/Border.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Style/Borders.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Style/Color.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Style/Conditional.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Style/Fill.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Style/Font.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Style/NumberFormat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Style/Protection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Style/Supervisor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/AutoFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/AutoFilter/Column.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/AutoFilter/Column/Rule.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/BaseDrawing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/CellIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/ColumnDimension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/Drawing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/Drawing/Shadow.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/HeaderFooter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/HeaderFooterDrawing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/MemoryDrawing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/PageMargins.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/PageSetup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/Protection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/Row.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/RowDimension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/RowIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Worksheet/SheetView.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/WorksheetIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Abstract.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/CSV.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel2007.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel2007/Chart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel2007/Comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel2007/ContentTypes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel2007/DocProps.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel2007/Drawing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel2007/Rels.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel2007/RelsRibbon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel2007/RelsVBA.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel2007/StringTable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel2007/Style.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel2007/Theme.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel2007/Workbook.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel2007/Worksheet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel2007/WriterPart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel5.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel5/BIFFwriter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel5/Escher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel5/Font.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel5/Parser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel5/Workbook.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel5/Worksheet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Excel5/Xf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/HTML.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/IWriter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/PDF.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/PDF/Core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/PDF/DomPDF.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/PDF/mPDF.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/Writer/PDF/tcPDF.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/bg/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/cs/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/cs/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/da/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/da/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/de/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/de/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/en/uk/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/es/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/es/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/fi/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/fi/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/fr/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/fr/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/hu/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/it/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/it/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/nl/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/nl/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/no/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/no/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/pl/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/pl/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/pt/br/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/pt/br/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/pt/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/pt/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/ru/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/ru/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/sv/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/sv/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/tr/config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/PHPExcel/locale/tr/functions" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/Autoloader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/TopSdk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/aliyun/AliyunClient.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/fileTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/ApplicationVar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/ClusterTopClient.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/HttpdnsGetRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/RequestCheckUtil.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/ResultSet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/SpiUtils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/TopClient.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/TopLogger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/domain/Area.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/domain/BizResult.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/domain/FcPartnerSmsDetailDto.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/domain/KfcSearchResult.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/domain/Result.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/domain/Subtask.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/domain/Task.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/AlibabaAliqinFcFlowChargeProvinceRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/AlibabaAliqinFcFlowChargeRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/AlibabaAliqinFcFlowGradeRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/AlibabaAliqinFcFlowQueryRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/AlibabaAliqinFcSmsNumQueryRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/AlibabaAliqinFcSmsNumSendRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/AlibabaAliqinFcTtsNumSinglecallRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/AlibabaAliqinFcVoiceNumDoublecallRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/AlibabaAliqinFcVoiceNumSinglecallRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/AppipGetRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/AreasGetRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/HttpdnsGetRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/KfcKeywordSearchRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/TimeGetRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/TopAuthTokenCreateRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/TopAuthTokenRefreshRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/TopIpoutGetRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/TopSecretGetRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/TopatsResultGetRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/Sms/top/request/TopatsTaskDeleteRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/class.phpmailer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/class.pop3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/class.smtp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/CHANGELOG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/INSTALL" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/VERSION" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/bindings/tcpdf/qrcode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/phpqrcode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/qrbitstream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/qrconfig.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/qrconst.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/qrencode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/qrimage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/qrinput.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/qrlib.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/qrmask.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/qrrscode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/qrspec.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/qrsplit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/qrtools.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/tools/merge.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/tools/merge.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/tools/merge.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/tools/merged_config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpqrcode/tools/merged_header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpthumb/GdThumb.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpthumb/PhpThumb.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpthumb/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpthumb/ThumbBase.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpthumb/ThumbLib.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/phpthumb/thumb_plugins/gd_reflection.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/tbl_printview.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/upyun.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/OneWxPay.pub.config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/OneWxPayPubHelper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/SDKRuntimeException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/WxPay.JsApiPay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/WxPay.pub.config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/WxPayPubHelper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/apiclient_cert.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/apiclient_key.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/cert/apiclient_cert.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/cert/apiclient_key.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/cert/rootca.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/lib/WxPay.Api.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/lib/WxPay.Config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/lib/WxPay.Data.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/lib/WxPay.Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/lib/WxPay.Notify.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/wx_pay/log_.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/Common.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/jsfunc/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/js/jquery-3.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/welcome.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/assets/css/ie10-viewport-bug-workaround.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/css/login/signin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/statics/js/npm.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/readme.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/.buildinfo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/DCO.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_downloads/ELDocs.tmbundle.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_images/appflowchart.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_images/smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/basic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/ci-icon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/comment-bright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/comment-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/comment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/css/badge_only.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/css/citheme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/css/theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/doctools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/down-pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/file.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/images/ci-icon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/jquery-3.1.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/js/oldtheme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/js/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/minus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/pygments.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/searchtools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/underscore-1.3.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/underscore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/up-pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/websupport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/changelog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/contributing/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/caching.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/call_function.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/configuration.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/connecting.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/db_driver_reference.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/examples.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/forge.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/helpers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/metadata.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/queries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/query_builder.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/results.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/transactions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/utilities.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/documentation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/alternative_php.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/ancillary_classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/autoloader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/caching.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/cli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/common_functions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/compatibility_functions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/controllers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/core_classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/creating_drivers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/creating_libraries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/credits.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/drivers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/environments.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/errors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/helpers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/hooks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/libraries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/managing_apps.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/models.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/profiling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/requirements.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/reserved_names.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/routing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/security.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/styleguide.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/urls.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/views.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/welcome.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/genindex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/array_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/captcha_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/cookie_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/date_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/directory_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/download_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/email_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/file_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/form_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/html_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/inflector_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/language_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/number_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/path_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/security_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/smiley_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/string_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/text_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/typography_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/url_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/xml_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/downloads.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/troubleshooting.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_120.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_130.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_131.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_132.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_133.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_140.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_141.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_150.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_152.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_153.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_154.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_160.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_161.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_162.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_163.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_170.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_171.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_172.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_200.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_201.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_202.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_203.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_210.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_211.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_212.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_213.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_214.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_220.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_221.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_222.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_223.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_300.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_301.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_302.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_303.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_304.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_305.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_306.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_310.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_311.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_312.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_313.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_314.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_315.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_316.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_b11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrading.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/benchmark.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/caching.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/calendar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/cart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/config.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/email.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/encrypt.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/encryption.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/file_uploading.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/form_validation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/ftp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/image_lib.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/input.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/javascript.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/language.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/loader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/migration.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/parser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/security.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/sessions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/table.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/trackback.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/typography.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/unit_testing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/uri.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/user_agent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/xmlrpc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/zip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/license.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/objects.inv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/overview/appflow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/overview/at_a_glance.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/overview/features.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/overview/getting_started.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/overview/goals.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/overview/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/overview/mvc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/searchindex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/tutorial/conclusion.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/tutorial/create_news_items.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/tutorial/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/tutorial/news_section.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/tutorial/static_pages.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/config.php" afterPath="$PROJECT_DIR$/application/config/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/Upload.php" afterPath="$PROJECT_DIR$/application/controllers/Upload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/User.php" afterPath="$PROJECT_DIR$/application/controllers/User.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/Welcome.php" afterPath="$PROJECT_DIR$/application/controllers/Welcome.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/libraries/index.html" afterPath="$PROJECT_DIR$/application/libraries/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/Uploadmodel.php" afterPath="$PROJECT_DIR$/application/models/Uploadmodel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/Usermodel.php" afterPath="$PROJECT_DIR$/application/models/Usermodel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/welcome_message.php" afterPath="$PROJECT_DIR$/application/views/welcome_message.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/logs/log-2017-12-07.php" afterPath="$PROJECT_DIR$/application/logs/log-2017-12-07.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/jsfunc/index.php" afterPath="$PROJECT_DIR$/application/views/jsfunc/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/templates/header.php" afterPath="$PROJECT_DIR$/application/views/templates/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/user/login.php" afterPath="$PROJECT_DIR$/application/views/user/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/user/register.php" afterPath="$PROJECT_DIR$/application/views/user/register.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -772,108 +248,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Upload.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/controllers/Upload.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="50" lean-forward="false" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MY_Controller.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/core/MY_Controller.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Welcome.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/controllers/Welcome.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="24" column="42" lean-forward="false" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="welcome_message.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/welcome_message.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="91" column="16" lean-forward="false" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/config/config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="568" column="0" lean-forward="true" selection-start-line="568" selection-start-column="0" selection-end-line="568" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Common.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/Common.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Usermodel.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/Usermodel.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-298">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="error-404.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/errors/error-404.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="360scan.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/360safe/360scan.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Uploadmodel.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/Uploadmodel.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -892,7 +274,6 @@
       <list>
         <option value="$PROJECT_DIR$/application/config/database.php" />
         <option value="$PROJECT_DIR$/application/config/routes.php" />
-        <option value="$PROJECT_DIR$/application/views/templates/header.php" />
         <option value="$PROJECT_DIR$/application/views/templates/footer.php" />
         <option value="$PROJECT_DIR$/application/views/pages/home.php" />
         <option value="$PROJECT_DIR$/application/models/News_model.php" />
@@ -900,25 +281,28 @@
         <option value="$PROJECT_DIR$/application/views/pages/create.php" />
         <option value="$PROJECT_DIR$/application/views/register.php" />
         <option value="$PROJECT_DIR$/application/views/pages/success.php" />
-        <option value="$PROJECT_DIR$/application/views/user/register.php" />
-        <option value="$PROJECT_DIR$/application/views/user/login.php" />
         <option value="$PROJECT_DIR$/application/views/uploadfile/uploadForm.php" />
         <option value="$PROJECT_DIR$/application/views/uploadfile/uploadSuccess.php" />
         <option value="$PROJECT_DIR$/application/views/upload/uploadForm.php" />
         <option value="$PROJECT_DIR$/application/views/upload/uploadSuccess.php" />
-        <option value="$PROJECT_DIR$/application/controllers/Jsfunc.php" />
-        <option value="$PROJECT_DIR$/application/views/jsfunc/index.php" />
         <option value="$PROJECT_DIR$/application/helpers/baseci_helper.php" />
         <option value="$PROJECT_DIR$/application/models/Common.php" />
         <option value="$PROJECT_DIR$/application/config/config.php" />
-        <option value="$PROJECT_DIR$/application/controllers/User.php" />
         <option value="$PROJECT_DIR$/application/controllers/Upload.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/application/core/MY_Controller.php" />
         <option value="$PROJECT_DIR$/application/models/Uploadmodel.php" />
         <option value="$PROJECT_DIR$/application/models/Usermodel.php" />
         <option value="$PROJECT_DIR$/application/views/welcome_message.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Jsfunc.php" />
+        <option value="$PROJECT_DIR$/application/views/jsfunc/index.php" />
         <option value="$PROJECT_DIR$/application/controllers/Welcome.php" />
+        <option value="$PROJECT_DIR$/application/views/templates/header.php" />
+        <option value="$PROJECT_DIR$/statics/assets/css/ie10-viewport-bug-workaround.css" />
+        <option value="$PROJECT_DIR$/application/views/user/register.php" />
+        <option value="$PROJECT_DIR$/statics/css/login/signin.css" />
+        <option value="$PROJECT_DIR$/application/views/user/login.php" />
+        <option value="$PROJECT_DIR$/application/controllers/User.php" />
       </list>
     </option>
   </component>
@@ -936,11 +320,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-105" />
-    <option name="y" value="204" />
-    <option name="width" value="1311" />
-    <option name="height" value="500" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="42" />
+    <option name="width" value="1378" />
+    <option name="height" value="683" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -958,6 +341,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -980,24 +365,51 @@
               <item name="xiaoyumao" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiaoyumao" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="core" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="xiaoyumao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xiaoyumao" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="models" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="xiaoyumao" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiaoyumao" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="xiaoyumao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaoyumao" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="user" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="xiaoyumao" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiaoyumao" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="statics" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="xiaoyumao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaoyumao" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="statics" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="xiaoyumao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaoyumao" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="statics" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="xiaoyumao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaoyumao" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="statics" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="xiaoyumao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaoyumao" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="statics" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="xiaoyumao" type="b2602c69:ProjectViewProjectNode" />
@@ -1009,14 +421,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1056,20 +467,23 @@
       <workItem from="1512564765441" duration="83000" />
       <workItem from="1512620358591" duration="13588000" />
       <workItem from="1512641580325" duration="5258000" />
+      <workItem from="1512647581594" duration="38000" />
+      <workItem from="1512659280599" duration="777000" />
+      <workItem from="1512696396952" duration="2315000" />
+      <workItem from="1512698913721" duration="104000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28705000" />
+    <option name="totallyTimeSpent" value="31939000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-105" y="204" width="1311" height="500" extended-state="1" />
+    <frame x="42" y="0" width="1378" height="683" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24942085" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23715125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0025839794" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.001754386" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1081,6 +495,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1095,38 +510,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/views/templates/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/pages/home.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/pages/success.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/templates/success.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/user/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/core/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/Pages.php" />
     <entry file="file://$PROJECT_DIR$/application/views/pages/create.php" />
     <entry file="file://$PROJECT_DIR$/application/models/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1139,7 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1147,7 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1155,15 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="88" column="19" lean-forward="false" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1181,26 +553,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/user/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/jsfunc/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/jsfunc/index.html" />
     <entry file="file://$PROJECT_DIR$/system/libraries/Javascript/Jquery.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1140">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1208,7 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1216,7 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1240">
           <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1224,10 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-760">
           <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-          <folding>
-            <marker date="1506357838000" expanded="true" signature="1411:1423" ph="..." />
-            <marker date="1506357838000" expanded="true" signature="1437:1448" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1235,7 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-819">
           <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1243,7 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1251,23 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-36578">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/Jsfunc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/jsfunc/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1275,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1060">
           <caret line="53" column="13" lean-forward="true" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1283,7 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-600">
           <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1291,7 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-900">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1299,7 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-960">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1307,7 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1315,7 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="41" column="44" lean-forward="true" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1323,7 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-644">
           <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1331,7 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-780">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1339,7 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1347,7 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1355,15 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1371,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1379,7 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1387,7 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1395,7 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1403,7 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="313" column="3" lean-forward="true" selection-start-line="313" selection-start-column="3" selection-end-line="313" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1417,56 +725,141 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/Uploadmodel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="360">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/core/MY_Controller.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
-          <folding />
+        <state relative-caret-position="540">
+          <caret line="27" column="53" lean-forward="false" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/Usermodel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-298">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="400">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/Common.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="220">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/welcome_message.php">
+    <entry file="file://$PROJECT_DIR$/application/controllers/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="91" column="16" lean-forward="false" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/doctypes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="568" column="0" lean-forward="true" selection-start-line="568" selection-start-column="0" selection-end-line="568" selection-end-column="0" />
+        <state relative-caret-position="11180">
+          <caret line="559" column="2" lean-forward="false" selection-start-line="559" selection-start-column="2" selection-end-line="559" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Jsfunc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/jsfunc/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/assets/css/ie10-viewport-bug-workaround.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/user/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1820">
+          <caret line="91" column="16" lean-forward="false" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statics/css/login/signin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="32" column="11" lean-forward="false" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/user/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/Welcome.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="24" column="42" lean-forward="false" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        <state relative-caret-position="359">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding />
         </state>
       </provider>

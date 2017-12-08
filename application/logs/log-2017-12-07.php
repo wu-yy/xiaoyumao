@@ -21,3 +21,11 @@ ERROR - 2017-12-07 19:40:36 --> Severity: Notice --> Undefined property: CI_Conf
 ERROR - 2017-12-07 19:40:37 --> Severity: Notice --> Undefined property: CI_Config::$description C:\wamp\www\xiaoyumao\application\controllers\Welcome.php 26
 ERROR - 2017-12-07 19:40:38 --> Severity: Notice --> Undefined property: CI_Config::$description C:\wamp\www\xiaoyumao\application\controllers\Welcome.php 26
 ERROR - 2017-12-07 19:40:39 --> Severity: Notice --> Undefined property: CI_Config::$description C:\wamp\www\xiaoyumao\application\controllers\Welcome.php 26
+ERROR - 2017-12-07 23:11:09 --> Severity: Notice --> Undefined variable: config C:\wamp\www\xiaoyumao\application\views\jsfunc\index.php 11
+ERROR - 2017-12-07 23:13:35 --> 404 Page Not Found: Jsfunc/statics
+ERROR - 2017-12-07 23:13:36 --> 404 Page Not Found: Jsfunc/statics
+ERROR - 2017-12-07 23:13:36 --> 404 Page Not Found: Jsfunc/statics
+ERROR - 2017-12-07 23:13:53 --> 404 Page Not Found: Statics/js
+ERROR - 2017-12-07 23:14:02 --> 404 Page Not Found: Statics/js
+ERROR - 2017-12-07 23:14:26 --> 404 Page Not Found: Jsfunc/statics
+ERROR - 2017-12-07 23:16:34 --> 404 Page Not Found: Jsfunc/statics

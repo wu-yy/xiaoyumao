@@ -1,14 +1,2 @@
-# xiaoyumao 资源分享平台
-
---------------
-
-## xiaoyumao(小羽毛）是什么？
-
-xiaoyumao基于MIT的开源框架 [codeigniter](https://codeigniter.com)开发，目的是实现一个ipv4 下的资源分享平台。
-
--  平台的目标：大学校园
--  平台的内容：优质的学习资源、二手物品资源...各种可以分享的互联网资源
--  招募开发者：如果你有梦想，又不仅仅局限于电脑，离开电脑，做一些有意义的事情。欢迎加入我们：813828322@qq.com
--  Develpoer: 蓝色鲸鱼
-
----------------
+# xiaoyumao
+一个资源分享平台，(codeigniter)<https://codeigniter.org.cn>框架
