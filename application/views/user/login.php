@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <link rel="icon" href="../../statics/img/favicon.ico">
 
-    <title>小羽毛</title>
+    <title><?php  echo $title;?></title>
     <!--核心bootstarp框架 -->
     <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
@@ -24,7 +24,6 @@
 
 </head>
 <body>
-
 
 <?php echo validation_errors();?>
 
@@ -49,7 +48,7 @@
 </div>
 <div class="form-register">
     <p><a href="<?php echo site_url('welcome/index'); ?>">View Home</a></p>
-    <?php echo 'News archive XXM!'; ?>
+    <?php echo 'Develpo by xiaoyumao!'; ?>
     <em>&copy;2017</em>
 </div>
 
