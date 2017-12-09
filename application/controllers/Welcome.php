@@ -23,6 +23,6 @@ class Welcome extends Application {
 	    $imageSource=$this->uploadmodel->getImage();
 	    //var_dump($imageSource);
         $data['imageSource']=$imageSource;
-		$this->load->view('welcome',$data);
+		$this->load->view('welcome/welcome',$data);
 	}
 }

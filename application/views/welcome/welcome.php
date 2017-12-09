@@ -1,6 +1,4 @@
-<?php
-defined('BASEPATH') OR exit('No direct script access allowed');
-?><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 	<meta charset="utf-8">
@@ -308,7 +306,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </script>
 <script src=https://cdn.bootcss.com/fitvids/1.1.0/jquery.fitvids.min.js>
 </script><script src=https://cdn.bootcss.com/highlight.js/9.0.0/highlight.min.js>
-</script><script src=../../statics/assets/js/main.min.js>
+</script>
+
+<script src="../../statics/assets/js/main.min.js">
 </script>
 
 
