@@ -34,18 +34,18 @@ class Application extends CI_Controller {
     /**
     | 短信网关
      */
-    public $alidayu_app_id = '23641534';// 短信网关阿里大于appid
+    public $alidayu_app_id = '2364';// 短信网关阿里大于appid
 
-    public $alidayu_app_secrect = '8fef13ec84e4d3727f8485e88b0b102b';// 阿里大于app secrect(阿里大于 管理中心-短信模板管理 获取)
+    public $alidayu_app_secrect = 'b';// 阿里大于app secrect(阿里大于 管理中心-短信模板管理 获取)
 
-    public $alidayu_sms_code = 'SMS_47855078';// 阿里大于短信模版id
-    public $alidayu_sms_welcome = 'SMS_70055036';
+    public $alidayu_sms_code = 'SMS_4778';// 阿里大于短信模版id
+    public $alidayu_sms_welcome = 'SMS_7036';
     public $alidayu_sms_sign = '小羽毛';// 阿里大于短信sign
 
-    public $wx_app_id = 'wxccd7a467a9566196';
-    public $wx_secret = '3fac447cd3def503663cef54eb02959d';
-    public $wx_mch_id = '1442620902';
-    public $wx_key = 'yinshuiyukejiyangguoliang1234567';
+    public $wx_app_id = 'wxc9566196';
+    public $wx_secret = 'aceb02959d';
+    public $wx_mch_id = '144202';
+    public $wx_key = 'y4567';
 
     public function __construct() {
         parent::__construct();
