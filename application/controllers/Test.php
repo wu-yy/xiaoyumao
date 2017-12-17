@@ -17,9 +17,7 @@ class Test extends CI_Controller
 
     public function index()
     {
-        $this->load->view('test/header');
         $this->load->view('test/index');
-        $this->load->view('test/footer');
     }
 
     public function  thread_2()
@@ -27,6 +25,12 @@ class Test extends CI_Controller
         $this->load->view('test/header');
         $this->load->view('test/thread_2');
         $this->load->view('test/footer');
+    }
+
+    public function login()
+    {
+        $e['success']=1;
+        return $e;
     }
 
 }

@@ -16,6 +16,16 @@
     <!-- 暂时没有使用的css样式
     <link href="../../statics/css/home/home.css" rel="stylesheet">
     -->
+    <script src=https://cdn.bootcss.com/jquery/1.11.2/jquery.min.js>
+    </script>
+    <script src=https://cdn.bootcss.com/bootstrap/3.3.4/js/bootstrap.min.js>
+    </script>
+    <script src=https://cdn.bootcss.com/fitvids/1.1.0/jquery.fitvids.min.js>
+    </script><script src=https://cdn.bootcss.com/highlight.js/9.0.0/highlight.min.js>
+    </script>
+
+    <script src="../../statics/assets/js/main.min.js">
+    </script>
 </head>
 <body class="home-template">
 <header class="main-header" style="background-image: url(../../statics/img/background.jpg)">
@@ -300,16 +310,7 @@
 
     </i>
 </a>
-<script src=https://cdn.bootcss.com/jquery/1.11.2/jquery.min.js>
-</script>
-<script src=https://cdn.bootcss.com/bootstrap/3.3.4/js/bootstrap.min.js>
-</script>
-<script src=https://cdn.bootcss.com/fitvids/1.1.0/jquery.fitvids.min.js>
-</script><script src=https://cdn.bootcss.com/highlight.js/9.0.0/highlight.min.js>
-</script>
 
-<script src="../../statics/assets/js/main.min.js">
-</script>
 
 
 <p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo  (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
