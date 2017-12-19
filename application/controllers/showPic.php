@@ -5,7 +5,7 @@
  * Date: 2017/12/19
  * Time: 19:42
  */
-class showPic extends Application
+class Showpic extends Application
 {
     public function __construct()
     {
