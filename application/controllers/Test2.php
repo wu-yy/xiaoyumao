@@ -11,7 +11,14 @@ class Test2 extends Application
 
     public function index()
     {
-        $data['pic_source']=$this->common->getShowPic();
+        $more_info=$this->common->getShowPic();
+        $more=array();
+        $x=0;
+        for($i=$x;$i<$x+36&&$i<count($more_info);$i++)
+        {
+            $more[$i]=$more_info[$i];
+        }
+        $data['pic_source']=$more;
         $this->load->view('showpic/index',$data);
     }
 
