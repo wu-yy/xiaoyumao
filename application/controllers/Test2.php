@@ -1,11 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Administrator
- * Date: 2017/12/19
- * Time: 19:42
- */
-class Showpic extends Application
+
+class Test2 extends Application
 {
     public function __construct()
     {
