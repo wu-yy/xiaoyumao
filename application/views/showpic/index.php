@@ -24,9 +24,10 @@
                 function () {
                     var number=$('#showSubject li').filter(function(){ return $(this).css('display')==='none';});
                     $('#showSubject li').filter(function(){ return $(this).css('display')==='none';}).remove();
-                    $.ajax({ type: "POST",url:"showPic/getMore",data:{'all':all},success:function (data) {
+                    $.ajax({ type: "POST",url:"Test2/getMore",data:{'all':all},success:function (data) {
                             var b=$.parseJSON(data);//解析返回的数据
                             console.log(b.all); //获取的数据
+                            all=b.all;
                             console.log(b.more);
                             $.each(b.more,function (i,item) {
                                 $('#showSubject').append('<li class="showImage" onclick="javascript:hideImage($(this));"><img class="imgshow" src="'+'<?php echo base_url(); ?>'+item.path+'" alt="sortable 1" title="'+item.content+'"></li>');

@@ -25,7 +25,6 @@ class Test2 extends Application
     public function getMore()
     {
         $x=$_POST['all'];
-        $x=0;
         $more_info=$this->common->getShowPic();
         $more=array();
         for($i=$x;$i<$x+6&&$i<count($more_info);$i++)
