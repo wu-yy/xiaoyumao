@@ -132,7 +132,7 @@
     </div>
     <div>
         <p>
-            <?php echo $pic_source[0]['path']?>
+            正在开发！
         </p>
     </div>
 </div>
