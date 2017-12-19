@@ -25,7 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 
 //这里是网站的root地址
-$config['base_url'] = 'http://127.0.0.1/xiaoyumao/';
+$config['base_url'] = 'http://127.0.0.1/';
 
 /*
 |--------------------------------------------------------------------------

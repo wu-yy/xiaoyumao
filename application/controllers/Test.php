@@ -5,7 +5,7 @@
  * Date: 2017/12/7
  * Time: 18:13
  */
-class Test extends CI_Controller
+class Test extends Application
 {
     public function __construct()
     {

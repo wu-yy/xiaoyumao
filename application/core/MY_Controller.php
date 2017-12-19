@@ -26,6 +26,7 @@ class Application extends CI_Controller {
     public $user_table = 'users';  //用户
     public $imageSource_table='image_source'; //图片
     public $ci_sessions_table='ci_sessions';//Session
+    public $showPic_table='show_pic';
 
     public $cookie_table = 'gr_cookie';
     public $token_table = 'gr_token';

@@ -20,7 +20,7 @@
 
      public function do_uploadImage()
      {
-        $config['upload_path']='./uploads';
+        $config['upload_path']='./uploads/userupload';
         $config['allowed_types']='gif|jpg|png|';
         $config['max_size']=512000;
         $config['max_width']=3000;
@@ -38,7 +38,7 @@
             $insert_data=array(
                 'file_name'=>$upload_data['file_name'],
                 'file_type'=>$upload_data['file_type'],
-                'file_path'=>base_url().'uploads/',
+                'file_path'=>'uploads/userupload/'.$upload_data['file_name'],
                 'orig_name'=>$upload_data['orig_name'],
                 'client_name'=>$upload_data['client_name'],
                 'file_size'=>$upload_data['file_size'],
