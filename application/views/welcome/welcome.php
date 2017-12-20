@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.bootcss.com/highlight.js/9.0.0/styles/vs.min.css">
 	<link rel="stylesheet" type="text/css" href="../../statics/assets/css/screen.min.css">
+    <link rel="stylesheet" type="text/css" href="../../statics/css/slideNav.css">
     <!-- 暂时没有使用的css样式
     <link href="../../statics/css/home/home.css" rel="stylesheet">
     -->
@@ -26,6 +27,19 @@
 
     <script src="../../statics/assets/js/main.min.js">
     </script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#nav li').hover(function() {
+                $('ul', this).slideDown(200);
+                $(this).children('a:first').addClass("hov");
+            }, function() {
+                $('ul', this).slideUp(100);
+                $(this).children('a:first').removeClass("hov");
+            });
+        });
+    </script>
+
 </head>
 <body class="home-template">
 <header class="main-header" style="background-image: url(../../statics/img/background.jpg)">
@@ -54,11 +68,16 @@
                     </span>
                 </div>
                 <div class="collapse navbar-collapse" id=main-menu>
-                    <ul class=menu>
+                    <ul class="menu" id="nav">
                         <li role=presentation>
                             <a href="/" title="首页">
                                 首页
                             </a>
+                            <ul>
+                                <li><a href="#">Company</a></li>
+                                <li><a href="#">Authors</a></li>
+                                <li><a href="#">Advertising</a></li>
+                            </ul>
                         </li>
                         <li role=presentation>
                             <a href="https://docs.golaravel.com/docs/" title="Laravel 中文文档" target="_blank" onclick="_hmt.push(['_trackEvent', 'main-navigation', 'click', 'Laravel 中文文档'])">
@@ -86,9 +105,15 @@
                             </a>
                         </li>
                         <li role=presentation>
-                            <a href="http://wenda.golaravel.com/" title=问答社区 target=_blank onclick="_hmt.push(['_trackEvent', 'main-navigation', 'click', '问答社区'])">
+                            <a href="#" title=问答社区 target=_blank onclick="_hmt.push(['_trackEvent', 'main-navigation', 'click', '问答社区'])">
                                 问答社区
                             </a>
+                            <ul>
+                                <li><a href="index.php/Test2">知乎用户头像</a></li>
+                                <li><a href="#">等待开发</a></li>
+                                <li><a href="#">等待开发</a></li>
+                                <li><a href="#">等待开发</a></li>
+                            </ul>
                         </li>
                     </ul>
                 </div>

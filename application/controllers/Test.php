@@ -20,6 +20,10 @@ class Test extends Application
         $this->load->view('test/index');
     }
 
+    public function index2()
+    {
+        $this->load->view('test/index2');
+    }
     public function  thread_2()
     {
         $this->load->view('test/header');
